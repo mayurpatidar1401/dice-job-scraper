@@ -7,7 +7,6 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 # ✅ File paths
-# excel_path = "/home/kajal/Job-App-Bot/Job_List_Data/Job_Lists_Test.xlsx"
 excel_path = "Job_List_Data/job_listings.xlsx" # Update with your Excel file path
 resume_path = "/path/to/your_resume.docx"  # Update with your resume path
 
